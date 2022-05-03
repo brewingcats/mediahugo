@@ -1,0 +1,3462 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Deserialized.System.Management.Automation.PSCustomObject</T>
+      <T>Deserialized.System.Object</T>
+    </TN>
+    <MS>
+      <I64 N="ticks">1646294245386</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">086d109f-b68a-bd23-b4a4b389-3c8b6bf9069c</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">086d109f-20220303T075725386</S>
+      <S N="ClientId">16e7b50c-c3c2-f280-5c3ff9a6-f0a54811454b</S>
+      <S N="timestamp">3/3/2022 7:57:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="1">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294245388</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">086d109f-b68a-bd23-b4a4b389-3c8b6bf9069c</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">086d109f-20220303T075725388</S>
+      <S N="ClientId">16e7b50c-c3c2-f280-5c3ff9a6-f0a54811454b</S>
+      <S N="timestamp">3/3/2022 7:57:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072124843</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">0f7fb44b-4bad-da86-9b2b017f-85187a498cca</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">0f7fb44b-20220312T080204843</S>
+      <S N="ClientId">be92afa8-9bb0-cbf5-7a516f76-58796df598e5</S>
+      <S N="timestamp">3/12/2022 8:02:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="3">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072124845</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">0f7fb44b-4bad-da86-9b2b017f-85187a498cca</S>
+      <I64 N="width">1024</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">0f7fb44b-20220312T080204845</S>
+      <S N="ClientId">be92afa8-9bb0-cbf5-7a516f76-58796df598e5</S>
+      <S N="timestamp">3/12/2022 8:02:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">768</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="4">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800026</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220301T000000026</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="5">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800028</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/posts/categories/software/photoviz/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">14dcce45-20220301T000000028</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/categories/software/photoviz/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="6">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800040</I64>
+      <S N="caller">component.autoinstagram</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220301T000000040</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="component">AutoInstagram</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_a</S>
+      <S N="message">AutoInstagram Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="7">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800041</I64>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220301T000000041</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="vizId">viz1581401042962</S>
+      <S N="indexId">202203</S>
+      <S N="component">Tableau</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_j</S>
+      <S N="message">Tableau Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="8">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800050</I64>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220301T000000050</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="vizId">viz1595830498772</S>
+      <S N="indexId">202203</S>
+      <S N="component">Tableau</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_j</S>
+      <S N="message">Tableau Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="9">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400026</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220305T000000026</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="10">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400028</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <I64 N="width">1024</I64>
+      <S N="url">https://staging.hugobelin.com/es/posts/instagram/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">14dcce45-20220305T000000028</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1024</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/posts/instagram/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="11">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400029</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="caller">autoinstagram</S>
+      <S N="message">Instagram entry not found on query params</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="logId">14dcce45-20220305T000000029</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="type">Warning</S>
+      <S N="tagId">tagId_3</S>
+    </MS>
+  </Obj>
+  <Obj RefId="12">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400030</I64>
+      <S N="caller">component.autoinstagram</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="type">Info</S>
+      <S N="logId">14dcce45-20220305T000000030</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="component">AutoInstagram</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_a</S>
+      <S N="message">AutoInstagram Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="13">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331412693</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">21a59806-906c-b658-09cfb09d-9477f1aef9a8</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">21a59806-20220315T080332693</S>
+      <S N="ClientId">9b208c26-17a1-8e67-d8c522d0-5b3a20901bab</S>
+      <S N="timestamp">3/15/2022 8:03:32 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="14">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331412695</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">21a59806-906c-b658-09cfb09d-9477f1aef9a8</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-7</S>
+      <S N="logId">21a59806-20220315T080332695</S>
+      <S N="ClientId">9b208c26-17a1-8e67-d8c522d0-5b3a20901bab</S>
+      <S N="timestamp">3/15/2022 8:03:32 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="15">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331408410</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">2b0b4866-fe0e-0af4-1f375548-ab7dec114d47</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">2b0b4866-20220315T080328410</S>
+      <S N="ClientId">fc7f1d5d-810f-156c-52cb423b-88d4dab1470f</S>
+      <S N="timestamp">3/15/2022 8:03:28 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="16">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331408412</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">2b0b4866-fe0e-0af4-1f375548-ab7dec114d47</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-7</S>
+      <S N="logId">2b0b4866-20220315T080328412</S>
+      <S N="ClientId">fc7f1d5d-810f-156c-52cb423b-88d4dab1470f</S>
+      <S N="timestamp">3/15/2022 8:03:28 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="17">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812807029</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">3e52d6a9-d4f6-8db5-1c9c680b-1ae3fc37e8d7</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">3e52d6a9-20220309T080007029</S>
+      <S N="ClientId">c0743d88-6bb8-d850-3673fb1a-53c370591831</S>
+      <S N="timestamp">3/9/2022 8:00:07 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="18">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812807031</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">3e52d6a9-d4f6-8db5-1c9c680b-1ae3fc37e8d7</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">3e52d6a9-20220309T080007031</S>
+      <S N="ClientId">c0743d88-6bb8-d850-3673fb1a-53c370591831</S>
+      <S N="timestamp">3/9/2022 8:00:07 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="19">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553535668</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">44631979-d903-9c5b-6ea6a0b3-50cb5108272c</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">44631979-20220306T075855668</S>
+      <S N="ClientId">dad036eb-4957-1ea0-dbc1c62c-b42a516c6035</S>
+      <S N="timestamp">3/6/2022 7:58:55 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="20">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553535670</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">44631979-d903-9c5b-6ea6a0b3-50cb5108272c</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">44631979-20220306T075855670</S>
+      <S N="ClientId">dad036eb-4957-1ea0-dbc1c62c-b42a516c6035</S>
+      <S N="timestamp">3/6/2022 7:58:55 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="21">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331388838</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">476531eb-38f0-4cea-fd09b89b-cd57146a0755</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">476531eb-20220315T080308838</S>
+      <S N="ClientId">f426baa8-f19b-eb91-593a0158-6e94ed99205f</S>
+      <S N="timestamp">3/15/2022 8:03:08 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="22">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331388840</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">476531eb-38f0-4cea-fd09b89b-cd57146a0755</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-7</S>
+      <S N="logId">476531eb-20220315T080308840</S>
+      <S N="ClientId">f426baa8-f19b-eb91-593a0158-6e94ed99205f</S>
+      <S N="timestamp">3/15/2022 8:03:08 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="23">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812825587</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">4a093758-e843-e471-19b90681-47aa8ca93960</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">4a093758-20220309T080025587</S>
+      <S N="ClientId">9d1eecf5-c0fc-02fd-3b578779-805aa25d074b</S>
+      <S N="timestamp">3/9/2022 8:00:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="24">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812825589</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">4a093758-e843-e471-19b90681-47aa8ca93960</S>
+      <I64 N="width">1024</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">4a093758-20220309T080025589</S>
+      <S N="ClientId">9d1eecf5-c0fc-02fd-3b578779-805aa25d074b</S>
+      <S N="timestamp">3/9/2022 8:00:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">768</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="25">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553522088</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">50a30f2e-5811-1c2f-d92f0e72-a3c96958928c</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">50a30f2e-20220306T075842088</S>
+      <S N="ClientId">4375d894-3f7a-c819-78a5b349-132aa01bdbdc</S>
+      <S N="timestamp">3/6/2022 7:58:42 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="26">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553522090</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">50a30f2e-5811-1c2f-d92f0e72-a3c96958928c</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">50a30f2e-20220306T075842090</S>
+      <S N="ClientId">4375d894-3f7a-c819-78a5b349-132aa01bdbdc</S>
+      <S N="timestamp">3/6/2022 7:58:42 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="27">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553535970</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">673dfefd-1eb4-013d-d76c02ba-69a2fd2aa1bb</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">673dfefd-20220306T075855970</S>
+      <S N="ClientId">246925ed-8317-00ea-876a3364-83cc90df1005</S>
+      <S N="timestamp">3/6/2022 7:58:55 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="28">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553535972</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">673dfefd-1eb4-013d-d76c02ba-69a2fd2aa1bb</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">673dfefd-20220306T075855972</S>
+      <S N="ClientId">246925ed-8317-00ea-876a3364-83cc90df1005</S>
+      <S N="timestamp">3/6/2022 7:58:55 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="29">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294247701</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">698ad92a-6759-86e5-fa85a4eb-5197fdd53fba</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">698ad92a-20220303T075727701</S>
+      <S N="ClientId">72a447da-b873-1e3f-60bca00b-9f6b7329647c</S>
+      <S N="timestamp">3/3/2022 7:57:27 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="30">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294247703</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">698ad92a-6759-86e5-fa85a4eb-5197fdd53fba</S>
+      <I64 N="width">1024</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">698ad92a-20220303T075727703</S>
+      <S N="ClientId">72a447da-b873-1e3f-60bca00b-9f6b7329647c</S>
+      <S N="timestamp">3/3/2022 7:57:27 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">768</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="31">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072123188</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69908038-39ae-7399-4245efd8-b02844b2e673</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">69908038-20220312T080203188</S>
+      <S N="ClientId">c418f12c-e757-9f7c-aa529c3c-9dcd768414e9</S>
+      <S N="timestamp">3/12/2022 8:02:03 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="32">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072123190</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69908038-39ae-7399-4245efd8-b02844b2e673</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">69908038-20220312T080203190</S>
+      <S N="ClientId">c418f12c-e757-9f7c-aa529c3c-9dcd768414e9</S>
+      <S N="timestamp">3/12/2022 8:02:03 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="33">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800027</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">69f11d51-20220301T000000027</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="34">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646092800029</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/es/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">69f11d51-20220301T000000029</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/1/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="35">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400027</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">69f11d51-20220305T000000027</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="36">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400029</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/posts/categories/travel/hikecollection/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">69f11d51-20220305T000000029</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/categories/travel/hikecollection/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="37">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646438400030</I64>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="type">Info</S>
+      <S N="logId">69f11d51-20220305T000000030</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/5/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="vizId">viz1595830498772</S>
+      <S N="indexId">202203</S>
+      <S N="component">Tableau</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_j</S>
+      <S N="message">Tableau Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="38">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646611200027</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">69f11d51-20220307T000000027</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/7/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="39">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646611200029</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/es/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">69f11d51-20220307T000000029</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/7/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="40">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646956800027</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">69f11d51-20220311T000000027</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/11/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="41">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646956800029</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/es/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">69f11d51-20220311T000000029</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="timestamp">3/11/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="42">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812822754</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">6a2fc130-ab37-edef-245e9fc2-c8c9576b1de8</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">6a2fc130-20220309T080022754</S>
+      <S N="ClientId">e3bc3b06-c8a3-e1b9-d5181b30-5ea20cbfa06a</S>
+      <S N="timestamp">3/9/2022 8:00:22 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="43">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812822756</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">6a2fc130-ab37-edef-245e9fc2-c8c9576b1de8</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">6a2fc130-20220309T080022756</S>
+      <S N="ClientId">e3bc3b06-c8a3-e1b9-d5181b30-5ea20cbfa06a</S>
+      <S N="timestamp">3/9/2022 8:00:22 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="44">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294245205</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">878bbdc1-3f41-28c8-66117c51-ae020f39ce5a</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">878bbdc1-20220303T075725205</S>
+      <S N="ClientId">6533a7e5-0959-6526-959e9605-7a11b2e7193e</S>
+      <S N="timestamp">3/3/2022 7:57:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="45">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294245207</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">878bbdc1-3f41-28c8-66117c51-ae020f39ce5a</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">878bbdc1-20220303T075725207</S>
+      <S N="ClientId">6533a7e5-0959-6526-959e9605-7a11b2e7193e</S>
+      <S N="timestamp">3/3/2022 7:57:25 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="46">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646524800023</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="type">Info</S>
+      <S N="logId">982a1557-20220306T000000023</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="timestamp">3/6/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="47">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646524800025</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <I64 N="width">412</I64>
+      <S N="url">https://staging.hugobelin.com/posts/categories/software/photoviz/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">982a1557-20220306T000000025</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="timestamp">3/6/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">732</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/categories/software/photoviz/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="48">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646524800040</I64>
+      <S N="caller">component.autoinstagram</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="type">Info</S>
+      <S N="logId">982a1557-20220306T000000040</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="timestamp">3/6/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="component">AutoInstagram</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_a</S>
+      <S N="message">AutoInstagram Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="49">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646524800050</I64>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="type">Info</S>
+      <S N="logId">982a1557-20220306T000000050</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="timestamp">3/6/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="vizId">viz1581401042962</S>
+      <S N="indexId">202203</S>
+      <S N="component">Tableau</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_j</S>
+      <S N="message">Tableau Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="50">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646524800051</I64>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="type">Info</S>
+      <S N="logId">982a1557-20220306T000000051</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="timestamp">3/6/2022 12:00:00 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="vizId">viz1595830498772</S>
+      <S N="indexId">202203</S>
+      <S N="component">Tableau</S>
+      <S N="category">ComponentSetup</S>
+      <S N="tagId">tagId_j</S>
+      <S N="message">Tableau Component</S>
+    </MS>
+  </Obj>
+  <Obj RefId="51">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553538285</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">a467e49a-8cc2-bd06-d042e33e-4c64b22cbc12</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">a467e49a-20220306T075858285</S>
+      <S N="ClientId">95187cbf-3fe5-095d-7b53bb9b-603559ddfb58</S>
+      <S N="timestamp">3/6/2022 7:58:58 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="52">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553538287</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">a467e49a-8cc2-bd06-d042e33e-4c64b22cbc12</S>
+      <I64 N="width">1024</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">a467e49a-20220306T075858287</S>
+      <S N="ClientId">95187cbf-3fe5-095d-7b53bb9b-603559ddfb58</S>
+      <S N="timestamp">3/6/2022 7:58:58 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">768</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="53">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072122474</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">abf6b846-a50c-51fc-018d2687-321bd2ccee7d</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">abf6b846-20220312T080202474</S>
+      <S N="ClientId">42a4983a-ae8e-50b1-4cff218e-54a201ff085a</S>
+      <S N="timestamp">3/12/2022 8:02:02 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="54">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072122476</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">abf6b846-a50c-51fc-018d2687-321bd2ccee7d</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">abf6b846-20220312T080202476</S>
+      <S N="ClientId">42a4983a-ae8e-50b1-4cff218e-54a201ff085a</S>
+      <S N="timestamp">3/12/2022 8:02:02 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="55">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072104415</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">ade252d6-2318-c055-81b97877-8cb55e5974de</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">ade252d6-20220312T080144415</S>
+      <S N="ClientId">2ae650eb-e812-8b6d-3b4c69dd-c7fa2cd04932</S>
+      <S N="timestamp">3/12/2022 8:01:44 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="56">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072104417</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">ade252d6-2318-c055-81b97877-8cb55e5974de</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">ade252d6-20220312T080144417</S>
+      <S N="ClientId">2ae650eb-e812-8b6d-3b4c69dd-c7fa2cd04932</S>
+      <S N="timestamp">3/12/2022 8:01:44 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="57">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553522270</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">ae1d5c65-c89f-2a73-7e24634f-35c7b6f98127</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">ae1d5c65-20220306T075842270</S>
+      <S N="ClientId">6aaf7308-8391-2310-43bb08d6-ef5406a9ad09</S>
+      <S N="timestamp">3/6/2022 7:58:42 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="58">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646553522272</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">ae1d5c65-c89f-2a73-7e24634f-35c7b6f98127</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">ae1d5c65-20220306T075842272</S>
+      <S N="ClientId">6aaf7308-8391-2310-43bb08d6-ef5406a9ad09</S>
+      <S N="timestamp">3/6/2022 7:58:42 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="59">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812816140</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">b1ec6cb1-5523-592a-2f3045b6-2568b76a6750</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">b1ec6cb1-20220309T080016140</S>
+      <S N="ClientId">23bf5843-b7ba-2c4e-4e4f345c-ff2622dd4627</S>
+      <S N="timestamp">3/9/2022 8:00:16 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="60">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812816142</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">b1ec6cb1-5523-592a-2f3045b6-2568b76a6750</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">b1ec6cb1-20220309T080016142</S>
+      <S N="ClientId">23bf5843-b7ba-2c4e-4e4f345c-ff2622dd4627</S>
+      <S N="timestamp">3/9/2022 8:00:16 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="61">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294224457</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">b47f2277-3af1-c4c7-2425473a-57b8192e26ee</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">b47f2277-20220303T075704457</S>
+      <S N="ClientId">e456dd6b-f34f-a19e-be967840-021aaa73c72e</S>
+      <S N="timestamp">3/3/2022 7:57:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="62">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294224459</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">b47f2277-3af1-c4c7-2425473a-57b8192e26ee</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">b47f2277-20220303T075704459</S>
+      <S N="ClientId">e456dd6b-f34f-a19e-be967840-021aaa73c72e</S>
+      <S N="timestamp">3/3/2022 7:57:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="63">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294224456</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">ba219b67-52b9-7261-724a51f6-c73ee14cf347</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">ba219b67-20220303T075704456</S>
+      <S N="ClientId">12aad246-6a22-01e8-6cf08f4e-9fe1678ea565</S>
+      <S N="timestamp">3/3/2022 7:57:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="64">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646294224458</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">ba219b67-52b9-7261-724a51f6-c73ee14cf347</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">ba219b67-20220303T075704458</S>
+      <S N="ClientId">12aad246-6a22-01e8-6cf08f4e-9fe1678ea565</S>
+      <S N="timestamp">3/3/2022 7:57:04 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="65">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331389330</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">d3ad5870-7543-c1cb-b0d0dfec-20db4c196742</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">d3ad5870-20220315T080309330</S>
+      <S N="ClientId">fe98067e-e189-8b09-3d7329f9-7f879a7bced8</S>
+      <S N="timestamp">3/15/2022 8:03:09 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="66">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331389332</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d3ad5870-7543-c1cb-b0d0dfec-20db4c196742</S>
+      <I64 N="width">360</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-7</S>
+      <S N="logId">d3ad5870-20220315T080309332</S>
+      <S N="ClientId">fe98067e-e189-8b09-3d7329f9-7f879a7bced8</S>
+      <S N="timestamp">3/15/2022 8:03:09 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">640</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="67">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812807147</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">dd14e184-5232-f592-1a4f7688-9b47f8faf82e</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">dd14e184-20220309T080007147</S>
+      <S N="ClientId">c3d5f553-e75f-dafb-f66f7034-a57b55ba2c37</S>
+      <S N="timestamp">3/9/2022 8:00:07 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="68">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1646812807149</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">dd14e184-5232-f592-1a4f7688-9b47f8faf82e</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">dd14e184-20220309T080007149</S>
+      <S N="ClientId">c3d5f553-e75f-dafb-f66f7034-a57b55ba2c37</S>
+      <S N="timestamp">3/9/2022 8:00:07 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="69">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331410957</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">df27b2ff-ad14-547b-a38d8d3a-4df83a241132</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">df27b2ff-20220315T080330957</S>
+      <S N="ClientId">42a2cc31-07f0-726e-425a6dff-e9ef0f4f88b4</S>
+      <S N="timestamp">3/15/2022 8:03:30 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="70">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647331410959</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">df27b2ff-ad14-547b-a38d8d3a-4df83a241132</S>
+      <I64 N="width">1024</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-7</S>
+      <S N="logId">df27b2ff-20220315T080330959</S>
+      <S N="ClientId">42a2cc31-07f0-726e-425a6dff-e9ef0f4f88b4</S>
+      <S N="timestamp">3/15/2022 8:03:30 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">768</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="71">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072104605</I64>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">e80cdcc5-46bf-ce0a-92bec82b-e1fa57c44961</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="type">Info</S>
+      <S N="logId">e80cdcc5-20220312T080144605</S>
+      <S N="ClientId">6440b50b-084b-f93c-04771104-8459ed30fcbd</S>
+      <S N="timestamp">3/12/2022 8:01:44 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="indexId">202203</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_7</S>
+      <S N="message">New user session</S>
+    </MS>
+  </Obj>
+  <Obj RefId="72">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1647072104607</I64>
+      <S N="caller">document.body</S>
+      <S N="SessionId">e80cdcc5-46bf-ce0a-92bec82b-e1fa57c44961</S>
+      <I64 N="width">1600</I64>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="timezone">UTC-8</S>
+      <S N="logId">e80cdcc5-20220312T080144607</S>
+      <S N="ClientId">6440b50b-084b-f93c-04771104-8459ed30fcbd</S>
+      <S N="timestamp">3/12/2022 8:01:44 AM</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">1000</I64>
+      <S N="indexId">202203</S>
+      <S N="siteVersion">3.18.22</S>
+      <S N="category">Bootstrap</S>
+      <S N="tagId">tagId_1</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+    </MS>
+  </Obj>
+  <Obj RefId="73">
+    <TN RefId="1">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="category">ComponentSetup</S>
+      <S N="caller">autoinstagram</S>
+      <S N="tagId">tagId_3</S>
+      <I64 N="ticks">1647820800013</I64>
+      <S N="message">Instagram entry not found on query params</S>
+      <S N="ClientId"></S>
+      <S N="type">Warning</S>
+      <S N="logId">-20220321T000000013</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <S N="indexId">202203</S>
+      <S N="SessionId"></S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="74">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId"></S>
+      <S N="message">AutoInstagram Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.autoinstagram</S>
+      <S N="logId">-20220321T000000014</S>
+      <S N="ClientId"></S>
+      <S N="component">AutoInstagram</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <S N="tagId">tagId_a</S>
+      <I64 N="ticks">1647820800014</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="75">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">05c64e24-129e-6f92-62220890-ef5ac044d5d4</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="ClientId">d7e9b5a0-1aaf-2016-5cfe252e-8b02ec51a36c</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <S N="logId">05c64e24-20220327T080923538</S>
+      <I64 N="ticks">1648368563538</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="76">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">05c64e24-129e-6f92-62220890-ef5ac044d5d4</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">05c64e24-20220327T080923540</S>
+      <S N="ClientId">d7e9b5a0-1aaf-2016-5cfe252e-8b02ec51a36c</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <I64 N="ticks">1648368563540</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="77">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">05c64e24-129e-6f92-62220890-ef5ac044d5d4</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">389</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">05c64e24-20220327T080923571</S>
+      <S N="ClientId">d7e9b5a0-1aaf-2016-5cfe252e-8b02ec51a36c</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <I64 N="SiteViews">389</I64>
+      <I64 N="ticks">1648368563571</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="78">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">0786f9dd-a48f-982c-110b8969-83631f15db07</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/99.0.4844.74 Safari/537.36</S>
+      <S N="ClientId">2aa9d9d0-5c05-fb79-1f0273fe-0cc5a4144094</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/30/2022 8:11:07 AM</S>
+      <S N="logId">0786f9dd-20220330T081107618</S>
+      <I64 N="ticks">1648627867618</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="79">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">0786f9dd-a48f-982c-110b8969-83631f15db07</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">0786f9dd-20220330T081107620</S>
+      <S N="ClientId">2aa9d9d0-5c05-fb79-1f0273fe-0cc5a4144094</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 8:11:07 AM</S>
+      <I64 N="ticks">1648627867620</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="80">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">0786f9dd-a48f-982c-110b8969-83631f15db07</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">392</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">0786f9dd-20220330T081107651</S>
+      <S N="ClientId">2aa9d9d0-5c05-fb79-1f0273fe-0cc5a4144094</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 8:11:07 AM</S>
+      <I64 N="SiteViews">392</I64>
+      <I64 N="ticks">1648627867651</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="81">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">08b354d1-d65b-2042-de1bd3e8-2d4161f14516</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">08b354d1-20220318T080459896</S>
+      <S N="ClientId">8ccbb374-c0cc-c0b0-136d3663-d960c4161f68</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 8:04:59 AM</S>
+      <I64 N="ticks">1647590699896</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="82">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">08b354d1-d65b-2042-de1bd3e8-2d4161f14516</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">08b354d1-20220318T080459898</S>
+      <S N="ClientId">8ccbb374-c0cc-c0b0-136d3663-d960c4161f68</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 8:04:59 AM</S>
+      <I64 N="ticks">1647590699898</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="83">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">20778eee-37aa-24a8-c85ce292-3b1f418f9f88</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">20778eee-20220318T080501812</S>
+      <S N="ClientId">6b45a119-cf44-1a44-594174ae-b97e26d52474</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 8:05:01 AM</S>
+      <I64 N="ticks">1647590701812</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="84">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">20778eee-37aa-24a8-c85ce292-3b1f418f9f88</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">20778eee-20220318T080501814</S>
+      <S N="ClientId">6b45a119-cf44-1a44-594174ae-b97e26d52474</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 8:05:01 AM</S>
+      <I64 N="ticks">1647590701814</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="85">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">22b2a2aa-b4cb-426b-9797d284-769e48cacf52</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">22b2a2aa-20220324T080739658</S>
+      <S N="ClientId">9f291fe8-d57f-81d0-85c95637-48ad4c94f572</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/24/2022 8:07:39 AM</S>
+      <I64 N="ticks">1648109259658</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="86">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">22b2a2aa-b4cb-426b-9797d284-769e48cacf52</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">22b2a2aa-20220324T080739660</S>
+      <S N="ClientId">9f291fe8-d57f-81d0-85c95637-48ad4c94f572</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/24/2022 8:07:39 AM</S>
+      <I64 N="ticks">1648109259660</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="87">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">295123c9-1dd2-2c89-09bcaf0e-dd5ff264a372</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">295123c9-20220324T080740017</S>
+      <S N="ClientId">824ae9cd-e994-f3cb-8954548b-d899fa2b44fb</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/24/2022 8:07:40 AM</S>
+      <I64 N="ticks">1648109260017</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="88">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">295123c9-1dd2-2c89-09bcaf0e-dd5ff264a372</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">295123c9-20220324T080740019</S>
+      <S N="ClientId">824ae9cd-e994-f3cb-8954548b-d899fa2b44fb</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/24/2022 8:07:40 AM</S>
+      <I64 N="ticks">1648109260019</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="89">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">301a2699-d162-ea4c-40bcc1c4-d03372e59624</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">301a2699-20220321T080614767</S>
+      <S N="ClientId">a2f75bba-f96b-e7fd-4916501f-906fb346511d</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 8:06:14 AM</S>
+      <I64 N="ticks">1647849974767</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="90">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">301a2699-d162-ea4c-40bcc1c4-d03372e59624</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">301a2699-20220321T080614769</S>
+      <S N="ClientId">a2f75bba-f96b-e7fd-4916501f-906fb346511d</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 8:06:14 AM</S>
+      <I64 N="ticks">1647849974769</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="91">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">30f9febc-cdea-33a3-1af6d26c-5ad0830eb59b</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="ClientId">f6589c6e-c625-885f-a6a9d4b3-165d3eeb950a</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <S N="logId">30f9febc-20220327T080902491</S>
+      <I64 N="ticks">1648368542491</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="92">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">30f9febc-cdea-33a3-1af6d26c-5ad0830eb59b</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">30f9febc-20220327T080902493</S>
+      <S N="ClientId">f6589c6e-c625-885f-a6a9d4b3-165d3eeb950a</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <I64 N="ticks">1648368542493</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="93">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">30f9febc-cdea-33a3-1af6d26c-5ad0830eb59b</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">389</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">30f9febc-20220327T080902494</S>
+      <S N="ClientId">f6589c6e-c625-885f-a6a9d4b3-165d3eeb950a</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <I64 N="SiteViews">389</I64>
+      <I64 N="ticks">1648368542494</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="94">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">35d45681-9194-95e2-ddec5c91-bd8d2e8eb4ad</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">35d45681-20220321T080632837</S>
+      <S N="ClientId">5f9cb7f7-8a70-4ec5-0c647729-73a6229338f2</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 8:06:32 AM</S>
+      <I64 N="ticks">1647849992837</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="95">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">35d45681-9194-95e2-ddec5c91-bd8d2e8eb4ad</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">768</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">35d45681-20220321T080632839</S>
+      <S N="ClientId">5f9cb7f7-8a70-4ec5-0c647729-73a6229338f2</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 8:06:32 AM</S>
+      <I64 N="ticks">1647849992839</I64>
+      <I64 N="width">1024</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="96">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">399b12eb-fd6b-0a62-405e22e7-7864876e8298</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">399b12eb-20220318T034133892</S>
+      <S N="ClientId">703b83fa-e6cd-004c-aae754f3-33bb6cdb4d06</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 3:41:33 AM</S>
+      <I64 N="ticks">1647574893892</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="97">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">399b12eb-fd6b-0a62-405e22e7-7864876e8298</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1045</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">399b12eb-20220318T034133905</S>
+      <S N="ClientId">703b83fa-e6cd-004c-aae754f3-33bb6cdb4d06</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 3:41:33 AM</S>
+      <I64 N="ticks">1647574893905</I64>
+      <I64 N="width">1920</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="98">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="category">GDPR</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="tagId">tagId_2</S>
+      <I64 N="ticks">1647574895957</I64>
+      <S N="message">User accepted TOS</S>
+      <S N="ClientId">703b83fa-e6cd-004c-aae754f3-33bb6cdb4d06</S>
+      <S N="type">Info</S>
+      <S N="logId">399b12eb-20220318T034135957</S>
+      <S N="timestamp">3/18/2022 3:41:35 AM</S>
+      <S N="indexId">202203</S>
+      <S N="SessionId">399b12eb-fd6b-0a62-405e22e7-7864876e8298</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="99">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">4981d48b-964d-68af-eeb19bb9-111684fff609</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">4981d48b-20220324T080757018</S>
+      <S N="ClientId">19dc7708-fe8c-2b64-110a86df-8ff526498e8a</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/24/2022 8:07:57 AM</S>
+      <I64 N="ticks">1648109277018</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="100">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">4981d48b-964d-68af-eeb19bb9-111684fff609</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">4981d48b-20220324T080757020</S>
+      <S N="ClientId">19dc7708-fe8c-2b64-110a86df-8ff526498e8a</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/24/2022 8:07:57 AM</S>
+      <I64 N="ticks">1648109277020</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="101">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">49d5a228-eefe-58b6-41634ede-16ebf4874c10</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">49d5a228-20220318T080441034</S>
+      <S N="ClientId">3c3a299a-5d5d-5b2e-292ec133-72cd34806e7d</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 8:04:41 AM</S>
+      <I64 N="ticks">1647590681034</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="102">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">49d5a228-eefe-58b6-41634ede-16ebf4874c10</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">49d5a228-20220318T080441036</S>
+      <S N="ClientId">3c3a299a-5d5d-5b2e-292ec133-72cd34806e7d</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 8:04:41 AM</S>
+      <I64 N="ticks">1647590681036</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="103">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">69f11d51-20220321T000000027</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <I64 N="ticks">1647820800027</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="104">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="url">https://staging.hugobelin.com/es/posts/instagram/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/posts/instagram/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">732</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">69f11d51-20220321T000000029</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <I64 N="ticks">1647820800029</I64>
+      <I64 N="width">412</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="105">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="category">ComponentSetup</S>
+      <S N="caller">autoinstagram</S>
+      <S N="tagId">tagId_3</S>
+      <I64 N="ticks">1647820800030</I64>
+      <S N="message">Instagram entry not found on query params</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="type">Warning</S>
+      <S N="logId">69f11d51-20220321T000000030</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <S N="indexId">202203</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="106">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="message">AutoInstagram Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.autoinstagram</S>
+      <S N="logId">69f11d51-20220321T000000031</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="component">AutoInstagram</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <S N="tagId">tagId_a</S>
+      <I64 N="ticks">1647820800031</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="107">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">70e699f7-f3e0-fd4b-4327c564-aaba5321da30</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">70e699f7-20220318T080503886</S>
+      <S N="ClientId">653ed69f-a7d7-63c7-028f4cd5-7d99adba16c5</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 8:05:03 AM</S>
+      <I64 N="ticks">1647590703886</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="108">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">70e699f7-f3e0-fd4b-4327c564-aaba5321da30</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">768</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">70e699f7-20220318T080503888</S>
+      <S N="ClientId">653ed69f-a7d7-63c7-028f4cd5-7d99adba16c5</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 8:05:03 AM</S>
+      <I64 N="ticks">1647590703888</I64>
+      <I64 N="width">1024</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="109">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">8ab25de9-26fa-e9fc-54c34ff9-0642ec3b71e3</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="ClientId">4018ca1a-25b6-2deb-299f15d7-be66b2389560</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <S N="logId">8ab25de9-20220327T080902714</S>
+      <I64 N="ticks">1648368542714</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="110">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">8ab25de9-26fa-e9fc-54c34ff9-0642ec3b71e3</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">8ab25de9-20220327T080902716</S>
+      <S N="ClientId">4018ca1a-25b6-2deb-299f15d7-be66b2389560</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <I64 N="ticks">1648368542716</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="111">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">8ab25de9-26fa-e9fc-54c34ff9-0642ec3b71e3</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">390</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">8ab25de9-20220327T080902717</S>
+      <S N="ClientId">4018ca1a-25b6-2deb-299f15d7-be66b2389560</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 8:09:02 AM</S>
+      <I64 N="SiteViews">390</I64>
+      <I64 N="ticks">1648368542717</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="112">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">8bb5a1ff-3f87-3e7c-90bf8369-cddc561c0e7b</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/99.0.4844.74 Mobile Safari/537.36</S>
+      <S N="ClientId">04603962-795b-5027-72bc6e42-bcf04b4767a5</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <S N="logId">8bb5a1ff-20220330T081035663</S>
+      <I64 N="ticks">1648627835663</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="113">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">8bb5a1ff-3f87-3e7c-90bf8369-cddc561c0e7b</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">8bb5a1ff-20220330T081035665</S>
+      <S N="ClientId">04603962-795b-5027-72bc6e42-bcf04b4767a5</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <I64 N="ticks">1648627835665</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="114">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">8bb5a1ff-3f87-3e7c-90bf8369-cddc561c0e7b</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">391</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">8bb5a1ff-20220330T081035666</S>
+      <S N="ClientId">04603962-795b-5027-72bc6e42-bcf04b4767a5</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <I64 N="SiteViews">391</I64>
+      <I64 N="ticks">1648627835666</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="115">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">982a1557-20220321T000000013</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <I64 N="ticks">1647820800013</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="116">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="url">https://staging.hugobelin.com/es/posts/site/policy/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/posts/site/policy/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">732</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">982a1557-20220321T000000015</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 12:00:00 AM</S>
+      <I64 N="ticks">1647820800015</I64>
+      <I64 N="width">412</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="117">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">9b9ba2d0-f301-5142-5c412e59-349869762abb</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">9b9ba2d0-20220321T080631635</S>
+      <S N="ClientId">d9cc99fa-66c7-c592-29bdcd0c-9b82b4c38ac9</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 8:06:31 AM</S>
+      <I64 N="ticks">1647849991635</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="118">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">9b9ba2d0-f301-5142-5c412e59-349869762abb</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">9b9ba2d0-20220321T080631637</S>
+      <S N="ClientId">d9cc99fa-66c7-c592-29bdcd0c-9b82b4c38ac9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 8:06:31 AM</S>
+      <I64 N="ticks">1647849991637</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="119">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T032529061</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/26/2022 3:25:29 AM</S>
+      <I64 N="ticks">1648265129061</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="120">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="category">GDPR</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="tagId">tagId_2</S>
+      <I64 N="ticks">1648265135647</I64>
+      <S N="message">User accepted TOS</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="type">Info</S>
+      <S N="logId">a1d39573-20220326T032535647</S>
+      <S N="timestamp">3/26/2022 3:25:35 AM</S>
+      <S N="indexId">202203</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="121">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T032544692</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/26/2022 3:25:44 AM</S>
+      <I64 N="ticks">1648265144692</I64>
+      <I64 N="width">1167</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="122">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T061427999</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/26/2022 6:14:27 AM</S>
+      <I64 N="ticks">1648275267999</I64>
+      <I64 N="width">1167</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="123">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">300</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">285</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">165</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T061438808</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/26/2022 6:14:38 AM</S>
+      <I64 N="SiteViews">563</I64>
+      <I64 N="ticks">1648275278808</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="124">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T063048145</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/26/2022 6:30:48 AM</S>
+      <I64 N="ticks">1648276248145</I64>
+      <I64 N="width">1167</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="125">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">301</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">286</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">166</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220326T063049991</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/26/2022 6:30:49 AM</S>
+      <I64 N="SiteViews">564</I64>
+      <I64 N="ticks">1648276249991</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="126">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220327T031058140</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 3:10:58 AM</S>
+      <I64 N="ticks">1648350658140</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="127">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">303</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">288</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">168</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220327T031100427</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 3:11:00 AM</S>
+      <I64 N="SiteViews">566</I64>
+      <I64 N="ticks">1648350660427</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="128">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063308777</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/28/2022 6:33:08 AM</S>
+      <I64 N="ticks">1648449188777</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="129">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">304</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">289</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">169</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063309293</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/28/2022 6:33:09 AM</S>
+      <I64 N="SiteViews">567</I64>
+      <I64 N="ticks">1648449189293</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="130">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/posts/resume/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063315377</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/28/2022 6:33:15 AM</S>
+      <I64 N="ticks">1648449195377</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="131">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="timestamp">3/28/2022 6:33:15 AM</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Tableau Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.tableau</S>
+      <S N="logId">a1d39573-20220328T063315437</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="component">Tableau</S>
+      <S N="vizId">viz1598508433588</S>
+      <S N="tagId">tagId_j</S>
+      <I64 N="ticks">1648449195437</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="132">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">305</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">22</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">18</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063315798</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/28/2022 6:33:15 AM</S>
+      <I64 N="SiteViews">568</I64>
+      <I64 N="ticks">1648449195798</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="133">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="category">GDPR</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="tagId">tagId_2</S>
+      <I64 N="ticks">1648449199487</I64>
+      <S N="message">User accepted TOS</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="type">Info</S>
+      <S N="logId">a1d39573-20220328T063319487</S>
+      <S N="timestamp">3/28/2022 6:33:19 AM</S>
+      <S N="indexId">202203</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="134">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/posts/resume/</S>
+      <S N="message">Scrolling to top</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentInteraction</S>
+      <S N="type">Info</S>
+      <S N="caller">ScrollToTop</S>
+      <S N="logId">a1d39573-20220328T063327559</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_13</S>
+      <S N="timestamp">3/28/2022 6:33:27 AM</S>
+      <I64 N="ticks">1648449207559</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="135">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/es/posts/resume/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063332720</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/28/2022 6:33:32 AM</S>
+      <I64 N="ticks">1648449212720</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="136">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="timestamp">3/28/2022 6:33:32 AM</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Tableau Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.tableau</S>
+      <S N="logId">a1d39573-20220328T063332795</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="component">Tableau</S>
+      <S N="vizId">viz1598508433588</S>
+      <S N="tagId">tagId_j</S>
+      <I64 N="ticks">1648449212795</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="137">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">306</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/es/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">1</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T063333183</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/28/2022 6:33:33 AM</S>
+      <I64 N="SiteViews">569</I64>
+      <I64 N="ticks">1648449213183</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="138">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/posts/resume/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T183229503</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/28/2022 6:32:29 PM</S>
+      <I64 N="ticks">1648492349503</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="139">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="timestamp">3/28/2022 6:32:29 PM</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Tableau Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.tableau</S>
+      <S N="logId">a1d39573-20220328T183229520</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="component">Tableau</S>
+      <S N="vizId">viz1598508433588</S>
+      <S N="tagId">tagId_j</S>
+      <I64 N="ticks">1648492349520</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="140">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">307</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">23</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">19</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220328T183233558</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/28/2022 6:32:33 PM</S>
+      <I64 N="SiteViews">570</I64>
+      <I64 N="ticks">1648492353558</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="141">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="url">https://staging.hugobelin.com/posts/resume/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220330T011712856</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 1:17:12 AM</S>
+      <I64 N="ticks">1648603032856</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="142">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="timestamp">3/30/2022 1:17:12 AM</S>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Tableau Component</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+      <S N="type">Info</S>
+      <S N="caller">component.tableau</S>
+      <S N="logId">a1d39573-20220330T011712900</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="component">Tableau</S>
+      <S N="vizId">viz1598508433588</S>
+      <S N="tagId">tagId_j</S>
+      <I64 N="ticks">1648603032900</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="143">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">308</I64>
+      <S N="SessionId">a1d39573-abb9-6707-3bad0cfa-afc7204c3644</S>
+      <S N="message">Loading: https://staging.hugobelin.com/posts/resume/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">24</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">20</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a1d39573-20220330T011716232</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 1:17:16 AM</S>
+      <I64 N="SiteViews">571</I64>
+      <I64 N="ticks">1648603036232</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="144">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a4cee2ee-14c2-29aa-fd18ffdb-920099a234f2</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a4cee2ee-20220326T032556247</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/26/2022 3:25:56 AM</S>
+      <I64 N="ticks">1648265156247</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="145">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a4cee2ee-14c2-29aa-fd18ffdb-920099a234f2</S>
+      <S N="url">https://staging.hugobelin.com/</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1041</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a4cee2ee-20220327T031058133</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 3:10:58 AM</S>
+      <I64 N="ticks">1648350658133</I64>
+      <I64 N="width">1773</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="146">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">302</I64>
+      <S N="SessionId">a4cee2ee-14c2-29aa-fd18ffdb-920099a234f2</S>
+      <S N="message">Loading: https://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">287</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">167</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">a4cee2ee-20220327T031058859</S>
+      <S N="ClientId">f9ba0ea2-de0f-fc0f-05c1875b-9598d82c3ca9</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 3:10:58 AM</S>
+      <I64 N="SiteViews">565</I64>
+      <I64 N="ticks">1648350658859</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="147">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">a90e7ec8-e74b-06d7-7773ac39-1fea5f0373d2</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">a90e7ec8-20220318T080441165</S>
+      <S N="ClientId">f610ee98-dd89-f3d0-9cacab18-d7f574ed7f10</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/18/2022 8:04:41 AM</S>
+      <I64 N="ticks">1647590681165</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="148">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">a90e7ec8-e74b-06d7-7773ac39-1fea5f0373d2</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">a90e7ec8-20220318T080441167</S>
+      <S N="ClientId">f610ee98-dd89-f3d0-9cacab18-d7f574ed7f10</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/18/2022 8:04:41 AM</S>
+      <I64 N="ticks">1647590681167</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="149">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">c61d34ad-9801-635e-8ad9b05d-878bbc24641d</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">c61d34ad-20220324T080759837</S>
+      <S N="ClientId">1c1df2a9-9a2c-9fee-8d75516f-c78e07657d49</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/24/2022 8:07:59 AM</S>
+      <I64 N="ticks">1648109279837</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="150">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">c61d34ad-9801-635e-8ad9b05d-878bbc24641d</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">768</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">c61d34ad-20220324T080759839</S>
+      <S N="ClientId">1c1df2a9-9a2c-9fee-8d75516f-c78e07657d49</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/24/2022 8:07:59 AM</S>
+      <I64 N="ticks">1648109279839</I64>
+      <I64 N="width">1024</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="151">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">d970e652-22bb-b759-305d2fcc-2d2891597ef9</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/99.0.4844.74 Safari/537.36</S>
+      <S N="ClientId">e773b361-d838-f83e-002d713b-f79835eea889</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/30/2022 8:11:11 AM</S>
+      <S N="logId">d970e652-20220330T081111193</S>
+      <I64 N="ticks">1648627871193</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="152">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">d970e652-22bb-b759-305d2fcc-2d2891597ef9</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">768</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">d970e652-20220330T081111195</S>
+      <S N="ClientId">e773b361-d838-f83e-002d713b-f79835eea889</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 8:11:11 AM</S>
+      <I64 N="ticks">1648627871195</I64>
+      <I64 N="width">1024</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="153">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">d970e652-22bb-b759-305d2fcc-2d2891597ef9</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">392</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">d970e652-20220330T081111226</S>
+      <S N="ClientId">e773b361-d838-f83e-002d713b-f79835eea889</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 8:11:11 AM</S>
+      <I64 N="SiteViews">392</I64>
+      <I64 N="ticks">1648627871226</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="154">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">dbafa7be-0080-53aa-b468d789-fe975b245447</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/99.0.4844.74 Mobile Safari/537.36</S>
+      <S N="ClientId">5da5e5d1-fe84-8259-6a36134f-28e606fb62ae</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/30/2022 8:11:00 AM</S>
+      <S N="logId">dbafa7be-20220330T081100192</S>
+      <I64 N="ticks">1648627860192</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="155">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">dbafa7be-0080-53aa-b468d789-fe975b245447</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">dbafa7be-20220330T081100194</S>
+      <S N="ClientId">5da5e5d1-fe84-8259-6a36134f-28e606fb62ae</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 8:11:00 AM</S>
+      <I64 N="ticks">1648627860194</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="156">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">dbafa7be-0080-53aa-b468d789-fe975b245447</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">391</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">dbafa7be-20220330T081100196</S>
+      <S N="ClientId">5da5e5d1-fe84-8259-6a36134f-28e606fb62ae</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 8:11:00 AM</S>
+      <I64 N="SiteViews">391</I64>
+      <I64 N="ticks">1648627860196</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="157">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">e183312d-52b8-320f-59e32c7d-4bdd025f3a42</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">e183312d-20220321T080614326</S>
+      <S N="ClientId">18e7f904-7be8-11c2-327015bd-14056bdd82fd</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 8:06:14 AM</S>
+      <I64 N="ticks">1647849974326</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="158">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">e183312d-52b8-320f-59e32c7d-4bdd025f3a42</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">e183312d-20220321T080614328</S>
+      <S N="ClientId">18e7f904-7be8-11c2-327015bd-14056bdd82fd</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 8:06:14 AM</S>
+      <I64 N="ticks">1647849974328</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="159">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">e2c3a415-6a12-0bd5-eec18d31-66926d69907c</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/99.0.4844.74 Safari/537.36</S>
+      <S N="ClientId">8b6ed227-6bf1-5d69-f5de91b9-24e7ab202967</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <S N="logId">e2c3a415-20220330T081035491</S>
+      <I64 N="ticks">1648627835491</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="160">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.20.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">e2c3a415-6a12-0bd5-eec18d31-66926d69907c</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">e2c3a415-20220330T081035493</S>
+      <S N="ClientId">8b6ed227-6bf1-5d69-f5de91b9-24e7ab202967</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <I64 N="ticks">1648627835493</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="161">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">e2c3a415-6a12-0bd5-eec18d31-66926d69907c</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">392</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">e2c3a415-20220330T081035494</S>
+      <S N="ClientId">8b6ed227-6bf1-5d69-f5de91b9-24e7ab202967</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/30/2022 8:10:35 AM</S>
+      <I64 N="SiteViews">392</I64>
+      <I64 N="ticks">1648627835494</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="162">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">f16c2796-4009-a71d-94e0e9a4-3576e45715a5</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="ClientId">fd2e134c-c5a8-6513-f133d443-fc839aba40e1</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/27/2022 8:09:25 AM</S>
+      <S N="logId">f16c2796-20220327T080925962</S>
+      <I64 N="ticks">1648368565962</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="163">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">f16c2796-4009-a71d-94e0e9a4-3576e45715a5</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">768</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">f16c2796-20220327T080925964</S>
+      <S N="ClientId">fd2e134c-c5a8-6513-f133d443-fc839aba40e1</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 8:09:25 AM</S>
+      <I64 N="ticks">1648368565964</I64>
+      <I64 N="width">1024</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="164">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">f16c2796-4009-a71d-94e0e9a4-3576e45715a5</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">389</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">f16c2796-20220327T080925995</S>
+      <S N="ClientId">fd2e134c-c5a8-6513-f133d443-fc839aba40e1</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 8:09:25 AM</S>
+      <I64 N="SiteViews">389</I64>
+      <I64 N="ticks">1648368565995</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="165">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">f942f613-865d-6fd6-0e7a7729-11de9ba8379b</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="BrewingCatsCoreVersion">1.12</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/98.0.4758.102 Mobile Safari/537.36</S>
+      <S N="ClientId">202987a5-26aa-867c-dfeb82a1-90c90a92a22d</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <S N="logId">f942f613-20220327T080923667</S>
+      <I64 N="ticks">1648368563667</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="166">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.19.27</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">f942f613-865d-6fd6-0e7a7729-11de9ba8379b</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">640</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">f942f613-20220327T080923669</S>
+      <S N="ClientId">202987a5-26aa-867c-dfeb82a1-90c90a92a22d</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <I64 N="ticks">1648368563669</I64>
+      <I64 N="width">360</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="167">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">f942f613-865d-6fd6-0e7a7729-11de9ba8379b</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="PageViews">390</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="caller">document.body</S>
+      <S N="logId">f942f613-20220327T080923700</S>
+      <S N="ClientId">202987a5-26aa-867c-dfeb82a1-90c90a92a22d</S>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">3/27/2022 8:09:23 AM</S>
+      <I64 N="SiteViews">390</I64>
+      <I64 N="ticks">1648368563700</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="168">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">fee61fb1-8679-b339-5230b112-2f4b4a3f1e37</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">fee61fb1-20220324T080757406</S>
+      <S N="ClientId">6a7191e3-58cd-d0b8-ad10e61f-898832eec2ad</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/24/2022 8:07:57 AM</S>
+      <I64 N="ticks">1648109277406</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="169">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">fee61fb1-8679-b339-5230b112-2f4b4a3f1e37</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">fee61fb1-20220324T080757408</S>
+      <S N="ClientId">6a7191e3-58cd-d0b8-ad10e61f-898832eec2ad</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/24/2022 8:07:57 AM</S>
+      <I64 N="ticks">1648109277408</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="170">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">ff08ab51-ab4b-f66a-59f9adb7-c4e029e30f53</S>
+      <S N="message">New user session</S>
+      <S N="indexId">202203</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/98.0.4758.102 Safari/537.36</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="logId">ff08ab51-20220321T080630056</S>
+      <S N="ClientId">9cb98c5a-1439-975f-e7206bb5-01fdd7deba70</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">3/21/2022 8:06:30 AM</S>
+      <I64 N="ticks">1647849990056</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="171">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="siteVersion">3.18.22</S>
+      <S N="timezone">UTC-7</S>
+      <S N="SessionId">ff08ab51-ab4b-f66a-59f9adb7-c4e029e30f53</S>
+      <S N="url">http://staging.hugobelin.com/</S>
+      <S N="message">Loading: http://staging.hugobelin.com/</S>
+      <S N="indexId">202203</S>
+      <I64 N="height">1000</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="logId">ff08ab51-20220321T080630058</S>
+      <S N="ClientId">9cb98c5a-1439-975f-e7206bb5-01fdd7deba70</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">3/21/2022 8:06:30 AM</S>
+      <I64 N="ticks">1647849990058</I64>
+      <I64 N="width">1600</I64>
+    </MS>
+  </Obj>
+</Objs>
