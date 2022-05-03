@@ -3971,10 +3971,7 @@
     </MS>
   </Obj>
   <Obj RefId="186">
-    <TN RefId="1">
-      <T>System.Management.Automation.PSCustomObject</T>
-      <T>System.Object</T>
-    </TN>
+    <TNRef RefId="0" />
     <MS>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
       <S N="tagId">tagId_7</S>
@@ -3994,7 +3991,7 @@
     </MS>
   </Obj>
   <Obj RefId="187">
-    <TNRef RefId="1" />
+    <TNRef RefId="0" />
     <MS>
       <S N="timezone">UTC-7</S>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
@@ -4017,7 +4014,7 @@
     </MS>
   </Obj>
   <Obj RefId="188">
-    <TNRef RefId="1" />
+    <TNRef RefId="0" />
     <MS>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
       <S N="tagId">tagId_12</S>
@@ -4039,7 +4036,7 @@
     </MS>
   </Obj>
   <Obj RefId="189">
-    <TNRef RefId="1" />
+    <TNRef RefId="0" />
     <MS>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
       <S N="tagId">tagId_2</S>
@@ -4057,7 +4054,7 @@
     </MS>
   </Obj>
   <Obj RefId="190">
-    <TNRef RefId="1" />
+    <TNRef RefId="0" />
     <MS>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
       <S N="tagId">tagId_7</S>
@@ -4077,7 +4074,7 @@
     </MS>
   </Obj>
   <Obj RefId="191">
-    <TNRef RefId="1" />
+    <TNRef RefId="0" />
     <MS>
       <S N="timezone">UTC-7</S>
       <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
@@ -4097,6 +4094,96 @@
       <S N="message">Loading: https://hugobelin.com/</S>
       <S N="indexId">202205</S>
       <I64 N="width">1920</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="192">
+    <TN RefId="1">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
+      <S N="tagId">tagId_12</S>
+      <S N="logId">3aef26b0-20220503T224934303</S>
+      <S N="timestamp">5/3/2022 10:49:34 PM</S>
+      <S N="SessionId">3aef26b0-a99f-67ce-a2fbbe26-01e5f1f8ff1f</S>
+      <I64 N="UserPageViews">2</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="SiteViews">2183</I64>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="ProjectId">HugoBelin</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">2</I64>
+      <I64 N="PageViews">407</I64>
+      <I64 N="ticks">1651618174303</I64>
+      <S N="message">Loading: https://hugobelin.com/</S>
+      <S N="indexId">202205</S>
+    </MS>
+  </Obj>
+  <Obj RefId="193">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
+      <S N="tagId">tagId_7</S>
+      <S N="logId">f3040349-20220503T224935160</S>
+      <S N="timestamp">5/3/2022 10:49:35 PM</S>
+      <S N="SessionId">f3040349-94fa-2462-e90a1736-3b921199c935</S>
+      <S N="category">Bootstrap</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="type">Info</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="ProjectId">HugoBelin</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36</S>
+      <I64 N="ticks">1651618175160</I64>
+      <S N="message">New user session</S>
+      <S N="indexId">202205</S>
+    </MS>
+  </Obj>
+  <Obj RefId="194">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="timezone">UTC-7</S>
+      <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
+      <S N="tagId">tagId_1</S>
+      <S N="logId">f3040349-20220503T224935181</S>
+      <S N="timestamp">5/3/2022 10:49:35 PM</S>
+      <S N="SessionId">f3040349-94fa-2462-e90a1736-3b921199c935</S>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://hugobelin.com/</S>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="ProjectId">HugoBelin</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="height">969</I64>
+      <S N="siteVersion">3.21.28</S>
+      <I64 N="ticks">1651618175181</I64>
+      <S N="message">Loading: https://hugobelin.com/</S>
+      <S N="indexId">202205</S>
+      <I64 N="width">1920</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="195">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="ClientId">a9d8abc1-7a66-e492-0613130f-c8d9be843852</S>
+      <S N="tagId">tagId_12</S>
+      <S N="logId">f3040349-20220503T224937303</S>
+      <S N="timestamp">5/3/2022 10:49:37 PM</S>
+      <S N="SessionId">f3040349-94fa-2462-e90a1736-3b921199c935</S>
+      <I64 N="UserPageViews">3</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="SiteViews">2184</I64>
+      <S N="type">Info</S>
+      <S N="caller">document.body</S>
+      <S N="ProjectId">HugoBelin</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">3</I64>
+      <I64 N="PageViews">408</I64>
+      <I64 N="ticks">1651618177303</I64>
+      <S N="message">Loading: https://hugobelin.com/</S>
+      <S N="indexId">202205</S>
     </MS>
   </Obj>
 </Objs>
