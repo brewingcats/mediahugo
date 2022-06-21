@@ -34555,5 +34555,42 @@
     "PageViews": 1331,
     "ApiVersion": "2.33",
     "timestamp": "6/20/2022 11:23:42 PM"
+  },
+  {
+    "tagId": "tagId_7",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+    "BrewingCatsCoreVersion": "4.34",
+    "ticks": 1655769221320,
+    "logId": "0156ca07-20220620T235341320",
+    "ProjectId": "staging-HugoBelin",
+    "client": "BrewingCatsCore",
+    "caller": "BrewingCatsCore.Control",
+    "category": "Bootstrap",
+    "type": "Info",
+    "indexId": "202206",
+    "SessionId": "0156ca07-160a-e8a5-3e2a6e27-664d13d0843a",
+    "message": "New user session",
+    "timestamp": "6/20/2022 11:53:41 PM",
+    "ClientId": "de80ad98-f15f-f303-e9da7fd8-2f3482bb5470"
+  },
+  {
+    "tagId": "tagId_1",
+    "url": "https://staging.hugobelin.com/",
+    "ticks": 1655769221324,
+    "siteVersion": "4.26.34",
+    "height": 932,
+    "logId": "0156ca07-20220620T235341324",
+    "ProjectId": "staging-HugoBelin",
+    "client": "BrewingCatsCore",
+    "timezone": "UTC-7",
+    "caller": "document.body",
+    "category": "Bootstrap",
+    "type": "Info",
+    "indexId": "202206",
+    "SessionId": "0156ca07-160a-e8a5-3e2a6e27-664d13d0843a",
+    "message": "Loading: https://staging.hugobelin.com/",
+    "timestamp": "6/20/2022 11:53:41 PM",
+    "width": 929,
+    "ClientId": "de80ad98-f15f-f303-e9da7fd8-2f3482bb5470"
   }
 ]
